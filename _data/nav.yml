@@ -9,6 +9,7 @@ navigation:
     - Reflex
     - Unreal Tournament 4
     - Warhammer
+    - Battlefield
   - name: Language
     children:
     - ENGLISH
@@ -38,6 +39,7 @@ navigation:
     - Secrets of Grindea
     - Tree Of Savior
     - Wildstar
+    - RuneScape
   - name: Moba Games
     children:
     - Dota 2
